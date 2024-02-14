@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e9f8fd3d69b92b458390b30a0c034cd, type: 3}
+  m_Name: dialogue_data
+  m_EditorClassIdentifier: 
+  talkScript:
+  - name: Galinha azul
+    text: "P\xF3p\xF3p\xF3 p\xF3p\xF3 p\xF3! P\xF3 p\xF3 p\xF3p\xF3 p\xF3p\xF3p\xF3p\xF3
+      p\xF3 p\xF3!\n(O meu deus! Estou muito triste!)"
+  - name: Player
+    text: "P\xF3 p\xF3p\xF3p\xF3 p\xF3p\xF3? P\xF3 p\xF3 p\xF3p\xF3p\xF3 p\xF3p\xF3
+      p\xF3!\n(Ol\xE1, o que ocorres contigo? O dia est\xE1 t\xE3o bonito hoje!)"
+  - name: Galinha azul
+    text: "P\xF3 p\xF3 p\xF3p\xF3? P\xF3 p\xF3 p\xF3p\xF3 p\xF3 p\xF3 p\xF3p\xF3p\xF3p\xF3!\n(Do
+      que adianta? Todas elas se foram!)"
+  - name: Player
+    text: "P\xF3 p\xF3 p\xF3p\xF3 p\xF3 p\xF3p\xF3? P\xF3 p\xF3 p\xF3p\xF3 p\xF3p\xF3?\n(Elas?
+      Elas quem?!)"
+  - name: Galinha azul
+    text: "P\xF3 p\xF3p\xF3 p\xF3! P\xF3p\xF3 p\xF3p\xF3p\xF3 p\xF3 p\xF3!\n(As minhas
+      amigas! As minhas queridas amigas galinhas!)"
+  - name: Galinha azul
+    text: "P\xF3 p\xF3p\xF3 p\xF3 p\xF3p\xF3 p\xF3p\xF3p\xF3 p\xF3 p\xF3 p\xF3p\xF3p\xF3
+      p\xF3 p\xF3p\xF3 p\xF3p\xF3!\n(Estavamos muito cansadas de ficar trancadas
+      em um galinheiro e, quando surgiu a oportunidade, n\xF3s fugimos!)"
+  - name: Galinha azul
+    text: "P\xF3 p\xF3 p\xF3 p\xF3! P\xF3p\xF3 p\xF3p\xF3p\xF3 p\xF3 p\xF3 p\xF3p\xF3
+      p\xF3 p\xF3p\xF3p\xF3!\n(Por\xE9m, na hora da fuga todas se perderam! Eu queria
+      reencontra-las, mas eu j\xE1 estou muito cansada de tanto procurar!)"
+  - name: Galinha azul
+    text: "P\xF3p\xF3p\xF3 p\xF3 p\xF3p\xF3 p\xF3 p\xF3p\xF3 p\xF3p\xF3p\xF3?\n(Galinha
+      Vaiajante, voc\xEA pode me ajudar?)"
+  - name: Player
+    text: "P\xF3p\xF3 p\xF3 p\xF3p\xF3 p\xF3p\xF3 p\xF3p\xF3p\xF3 p\xF3p\xF3 p\xF3p\xF3p\xF3p\xF3
+      p\xF3!\n(Nem fudendo, prefiro jogar um jogo da velha!)"
+  - name: Player
+    text: "P\xF3p\xF3! p\xF3 p\xF3 p\xF3p\xF3 p\xF3 p\xF3p\xF3 p\xF3 p\xF3p\xF3p\xF3p\xF3!\n(Claro!
+      Vamos procurar suas amigas!)"

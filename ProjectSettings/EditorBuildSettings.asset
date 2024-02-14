@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 80a7531db2b42e14b835cc6bc008ae4b
+  - enabled: 1
+    path: Assets/Scenes/historia.unity
+    guid: 0b784bb09ce80c84b80f948fbf360da3
+  - enabled: 1
+    path: Assets/jogo/jogo.unity
+    guid: 151c2132a219e0b49a509777a3bfcbd9
+  - enabled: 0
+    path: Assets/Scenes/chicken tac toe.unity
+    guid: f215f3ed9b6b00f408c388c3373dde5c
+  m_configObjects: {}
